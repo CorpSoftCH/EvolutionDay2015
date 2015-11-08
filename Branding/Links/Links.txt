@@ -1,0 +1,11 @@
+SharePoint Color Palette Tool
+http://www.microsoft.comen-usdownloaddetails.aspxid=38182
+
+PnP Github repository
+https://github.com/OfficeDev/PnP
+
+Responsive Sharepoint
+https://responsivesharepoint.codeplex.com/
+
+SharePoint Branding Buch
+http://www.wrox.com/WileyCDA/WroxTitle/SharePoint-2013-Branding-and-User-Interface-Design.productCd-1118495675.html
